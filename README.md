@@ -1,10 +1,15 @@
 # Web-page-of-Arabic-speech-to-text-
 # set up:
 1- unzip the (speech recognition) zip file.
+
 2- open the speech recognition in an editor eg., Visual Studio.
+
 3- open the cmd or in the terminal section type "pip install flask" then click enter.
+
 5- run the (app.py) file.
+
 6- open the browser and type "http://127.0.0.1:5000" click enter and you will web page is ready to use.
+
 7- click the start button then speak in Arabic and wait a few seconds and your text will be shown.
 
 # Methodology:
